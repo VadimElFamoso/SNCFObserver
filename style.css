@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vh;
+    height: 100vh;
+    background-color: #003865;
+}
+
+h1{
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+input{
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 35vw;
+    height: 5vh;
+    border-radius: 75px 75px 0 0;
+}
